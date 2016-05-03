@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="aux_functions.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="359" topLine="0" />
+	</File>
+	<File name="graphSample.txt" open="0" top="0" tabpos="0">
+		<Cursor position="86" topLine="0" />
+	</File>
+	<File name="halfedge.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="1032" topLine="34" />
+	</File>
+	<File name="halfedge.h" open="0" top="0" tabpos="9">
+		<Cursor position="93" topLine="0" />
+	</File>
+	<File name="hebb.txt" open="0" top="0" tabpos="0">
+		<Cursor position="63" topLine="0" />
+	</File>
+	<File name="inputs.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="inputs3.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="448" topLine="0" />
+	</File>
+	<File name="inputs4.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="28" topLine="0" />
+	</File>
+	<File name="layer.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="1123" topLine="25" />
+	</File>
+	<File name="layer.h" open="0" top="0" tabpos="8">
+		<Cursor position="430" topLine="8" />
+	</File>
+	<File name="letters_5by5/a.txt" open="0" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="letters_5by5/c.txt" open="0" top="0" tabpos="13">
+		<Cursor position="50" topLine="0" />
+	</File>
+	<File name="letters_5by5/g.txt" open="0" top="0" tabpos="11">
+		<Cursor position="50" topLine="0" />
+	</File>
+	<File name="letters_5by5/x.txt" open="0" top="0" tabpos="12">
+		<Cursor position="49" topLine="0" />
+	</File>
+	<File name="letters_7by9/1a.txt" open="0" top="0" tabpos="10">
+		<Cursor position="111" topLine="0" />
+	</File>
+	<File name="letters_7by9/1b.txt" open="0" top="0" tabpos="12">
+		<Cursor position="111" topLine="0" />
+	</File>
+	<File name="letters_7by9/1c.txt" open="0" top="0" tabpos="11">
+		<Cursor position="69" topLine="0" />
+	</File>
+	<File name="letters_7by9/1d.txt" open="0" top="0" tabpos="0">
+		<Cursor position="69" topLine="0" />
+	</File>
+	<File name="letters_7by9/1e.txt" open="0" top="0" tabpos="0">
+		<Cursor position="97" topLine="0" />
+	</File>
+	<File name="letters_7by9/1j.txt" open="0" top="0" tabpos="0">
+		<Cursor position="124" topLine="0" />
+	</File>
+	<File name="letters_7by9/1k.txt" open="0" top="0" tabpos="0">
+		<Cursor position="124" topLine="0" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="798" topLine="18" />
+	</File>
+	<File name="main_functions.h" open="0" top="0" tabpos="7">
+		<Cursor position="144" topLine="0" />
+	</File>
+	<File name="networks/bam.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="networks/delta.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="1744" topLine="37" />
+	</File>
+	<File name="networks/delta.h" open="0" top="0" tabpos="7">
+		<Cursor position="457" topLine="0" />
+	</File>
+	<File name="networks/hamming.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="98" topLine="0" />
+	</File>
+	<File name="networks/hamming.h" open="0" top="0" tabpos="0">
+		<Cursor position="276" topLine="0" />
+	</File>
+	<File name="networks/hebb.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="5250" topLine="21" />
+	</File>
+	<File name="networks/hebb.h" open="0" top="0" tabpos="9">
+		<Cursor position="388" topLine="0" />
+	</File>
+	<File name="networks/hopfield.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="82" topLine="0" />
+	</File>
+	<File name="networks/hopfield.h" open="0" top="0" tabpos="0">
+		<Cursor position="281" topLine="0" />
+	</File>
+	<File name="networks/lvq.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="1909" topLine="71" />
+	</File>
+	<File name="networks/lvq.h" open="1" top="0" tabpos="1">
+		<Cursor position="318" topLine="0" />
+	</File>
+	<File name="networks/madaline.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="1020" topLine="0" />
+	</File>
+	<File name="networks/madaline.h" open="0" top="0" tabpos="0">
+		<Cursor position="561" topLine="0" />
+	</File>
+	<File name="networks/maxnet.cpp" open="0" top="0" tabpos="12">
+		<Cursor position="2595" topLine="10" />
+	</File>
+	<File name="networks/maxnet.h" open="0" top="0" tabpos="11">
+		<Cursor position="277" topLine="0" />
+	</File>
+	<File name="networks/mexican_hat.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="2043" topLine="61" />
+	</File>
+	<File name="networks/mexican_hat.h" open="0" top="0" tabpos="3">
+		<Cursor position="427" topLine="0" />
+	</File>
+	<File name="networks/perceptron.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="8337" topLine="205" />
+	</File>
+	<File name="networks/perceptron.h" open="0" top="0" tabpos="0">
+		<Cursor position="383" topLine="0" />
+	</File>
+	<File name="neural_network.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="635" topLine="18" />
+	</File>
+	<File name="neural_network.h" open="0" top="0" tabpos="1">
+		<Cursor position="187" topLine="15" />
+	</File>
+	<File name="neuron.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="4746" topLine="125" />
+	</File>
+	<File name="neuron.h" open="1" top="0" tabpos="9">
+		<Cursor position="769" topLine="18" />
+	</File>
+	<File name="pattern.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="2244" topLine="102" />
+	</File>
+	<File name="pattern.h" open="1" top="0" tabpos="5">
+		<Cursor position="94" topLine="1" />
+	</File>
+	<File name="point.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="816" topLine="24" />
+	</File>
+	<File name="trainnings2.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="987" topLine="28" />
+	</File>
+	<File name="trainnings3.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="49" topLine="0" />
+	</File>
+	<File name="trainnings4.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="995" topLine="13" />
+	</File>
+	<File name="vector.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="383" topLine="30" />
+	</File>
+	<File name="vector.h" open="1" top="0" tabpos="6">
+		<Cursor position="314" topLine="27" />
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,304 @@
+# depslib dependency file v1.0
+1309371489 source:/home/fabiow/Desktop/C++ Programming/Neural Networks/graph.cpp
+	"graph.h"
+	<iostream>
+
+1309371538 /home/fabiow/Desktop/C++ Programming/Neural Networks/graph.h
+	"node.h"
+	<list>
+
+1309354312 /home/fabiow/Desktop/C++ Programming/Neural Networks/node.h
+	"edge.h"
+	"point.h"
+	<list>
+
+1308578900 /home/fabiow/Desktop/C++ Programming/Neural Networks/edge.h
+	"point.h"
+
+1309267824 /home/fabiow/Desktop/C++ Programming/Neural Networks/point.h
+	<fstream>
+	<list>
+
+1310863201 source:/home/fabiow/Desktop/C++ Programming/Neural Networks/halfedge.cpp
+	"halfedge.h"
+	<cmath>
+	<iostream>
+	"GL/glut.h"
+
+1309469905 /home/fabiow/Desktop/C++ Programming/Neural Networks/halfedge.h
+	<ostream>
+	"neuron.h"
+
+1310862666 source:/home/fabiow/Desktop/C++ Programming/Neural Networks/main.cpp
+	<iostream>
+	"neural_network.h"
+	"pattern.h"
+
+1309354603 source:/home/fabiow/Desktop/C++ Programming/Neural Networks/node.cpp
+	"node.h"
+	<iostream>
+
+1308877511 source:/home/fabiow/Desktop/C++ Programming/Neural Networks/opengl.cpp
+	<GL/glut.h>
+	"point.h"
+
+1309370404 source:/home/fabiow/Desktop/C++ Programming/Neural Networks/point.cpp
+	"point.h"
+	<cmath>
+	<iostream>
+	<list>
+	"GL/gl.h"
+	"halfedge.h"
+
+1309371447 source:/home/fabiow/Desktop/C++ Programming/Neural Networks/edge.cpp
+	"edge.h"
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+
+1310863076 source:/home/fabiow/Desktop/C++ Programming/Neural Networks/neuron.cpp
+	"neuron.h"
+	"halfedge.h"
+
+1310863405 /home/fabiow/Desktop/C++ Programming/Neural Networks/neuron.h
+	<iostream>
+	<list>
+
+1310863142 source:/home/fabiow/Desktop/C++ Programming/Neural Networks/neural_network.cpp
+	"neural_network.h"
+	"halfedge.h"
+
+1310677832 /home/fabiow/Desktop/C++ Programming/Neural Networks/neural_network.h
+	<fstream>
+	<iostream>
+	<list>
+	"neuron.h"
+	"pattern.h"
+
+1309731055 /home/fabiow/Desktop/C++ Programming/Neural Networks/trainning.h
+	<list>
+
+1309731766 source:/home/fabiow/Desktop/C++ Programming/Neural Networks/trainning.cpp
+	"trainning.h"
+
+1310052860 source:/home/fabiow/Desktop/C++ Programming/Neural Networks/inputs.cpp
+	<fstream>
+	<iostream>
+	<list>
+	"pattern.h"
+
+1310679271 /home/fabiow/Desktop/C++ Programming/Neural Networks/pattern.h
+	<iostream>
+	<list>
+
+1310049021 source:/home/fabiow/Desktop/C++ Programming/Neural Networks/pattern.cpp
+	"pattern.h"
+
+1310139313 source:/home/fabiow/Desktop/C++ Programming/Neural Networks/aux_functions.cpp
+	<cmath>
+	<iostream>
+
+1348001424 source:/home/fabiow/Projetos CB/Neural Networks/aux_functions.cpp
+	<cmath>
+	<iostream>
+	"main_functions.h"
+
+1347937053 source:/home/fabiow/Projetos CB/Neural Networks/halfedge.cpp
+	"halfedge.h"
+	<cmath>
+	<iostream>
+	"GL/glut.h"
+
+1347918431 /home/fabiow/Projetos CB/Neural Networks/halfedge.h
+	<ostream>
+	"neuron.h"
+
+1348022095 /home/fabiow/Projetos CB/Neural Networks/neuron.h
+	<iostream>
+	<vector>
+	"vector.h"
+
+1340734059 source:/home/fabiow/Projetos CB/Neural Networks/inputs.cpp
+	<fstream>
+	<iostream>
+	<vector>
+	"pattern.h"
+
+1348001777 /home/fabiow/Projetos CB/Neural Networks/pattern.h
+	<iostream>
+	<vector>
+	"vector.h"
+
+1347892744 source:/home/fabiow/Projetos CB/Neural Networks/main.cpp
+	"neural_network.h"
+	"networks/hebb.h"
+
+1347893270 /home/fabiow/Projetos CB/Neural Networks/neural_network.h
+	<fstream>
+	<iostream>
+	<vector>
+	"layer.h"
+	"neuron.h"
+	"pattern.h"
+	"main_functions.h"
+
+1347990009 source:/home/fabiow/Projetos CB/Neural Networks/neural_network.cpp
+	"neural_network.h"
+	"halfedge.h"
+	<cmath>
+
+1348022117 source:/home/fabiow/Projetos CB/Neural Networks/neuron.cpp
+	"neuron.h"
+	"layer.h"
+	"halfedge.h"
+
+1348004994 source:/home/fabiow/Projetos CB/Neural Networks/pattern.cpp
+	"pattern.h"
+	<fstream>
+	<iostream>
+
+1323555563 source:/home/fabiow/Projetos CB/Neural Networks/neural_networkTest.cpp
+
+1347941057 /home/fabiow/Projetos CB/Neural Networks/main_functions.h
+	"pattern.h"
+	"neuron.h"
+	"halfedge.h"
+
+1341673340 source:/home/fabiow/Projetos CB/Neural Networks/neural_network_trainning.cpp
+	"neural_network.h"
+	<cmath>
+
+1340732306 source:/home/fabiow/Projetos CB/Neural Networks/trainnings.cpp
+	"neural_network.h"
+	"pattern.h"
+	"main_functions.h"
+	<iostream>
+
+1347978077 source:/home/fabiow/Projetos CB/Neural Networks/layer.cpp
+	"layer.h"
+	"neural_network.h"
+
+1347977892 /home/fabiow/Projetos CB/Neural Networks/layer.h
+	<cstdarg>
+	<iostream>
+	"neuron.h"
+	"halfedge.h"
+
+1342052479 source:/home/fabiow/Projetos CB/Neural Networks/trainnings3.cpp
+	"neural_network.h"
+	"pattern.h"
+	"main_functions.h"
+	<iostream>
+	"networks/mexican_hat.h"
+	"networks/hebb.h"
+	"networks/maxnet.h"
+
+1342051474 source:/home/fabiow/Projetos CB/Neural Networks/trainnings2.cpp
+	"neural_network.h"
+	"pattern.h"
+	"main_functions.h"
+	"networks/hebb.h"
+	"networks/perceptron.h"
+	"networks/madaline.h"
+	"networks/delta.h"
+	<iostream>
+
+1340734130 source:/home/fabiow/Projetos CB/Neural Networks/inputs3.cpp
+	<fstream>
+	<iostream>
+	<vector>
+	"pattern.h"
+
+1341629278 /home/fabiow/Projetos CB/Neural Networks/NeuralNetworks/hebb.h
+	<iostream>
+
+1342052248 /home/fabiow/Projetos CB/Neural Networks/networks/mexican_hat.h
+	"../layer.h"
+	"../neural_network.h"
+
+1342050650 /home/fabiow/Projetos CB/Neural Networks/networks/hebb.h
+	"../neural_network.h"
+
+1342191159 source:/home/fabiow/Projetos CB/Neural Networks/networks/hebb.cpp
+	"hebb.h"
+
+1347990009 source:/home/fabiow/Projetos CB/Neural Networks/networks/mexican_hat.cpp
+	"mexican_hat.h"
+
+1341673428 source:/home/fabiow/Projetos CB/Neural Networks/networks/bam.cpp
+	"bam.h"
+
+1342050649 /home/fabiow/Projetos CB/Neural Networks/networks/bam.h
+	"../neural_network.h"
+
+1341673678 source:/home/fabiow/Projetos CB/Neural Networks/networks/delta.cpp
+	"delta.h"
+
+1342050650 /home/fabiow/Projetos CB/Neural Networks/networks/delta.h
+	"../neural_network.h"
+
+1341673340 source:/home/fabiow/Projetos CB/Neural Networks/networks/hamming.cpp
+	"hamming.h"
+
+1342050650 /home/fabiow/Projetos CB/Neural Networks/networks/hamming.h
+	"../neural_network.h"
+
+1341673428 source:/home/fabiow/Projetos CB/Neural Networks/networks/hopfield.cpp
+	"hopfield.h"
+
+1342050650 /home/fabiow/Projetos CB/Neural Networks/networks/hopfield.h
+	"../neural_network.h"
+
+1342191157 source:/home/fabiow/Projetos CB/Neural Networks/networks/madaline.cpp
+	"madaline.h"
+	<cmath>
+
+1342050650 /home/fabiow/Projetos CB/Neural Networks/networks/madaline.h
+	"../neural_network.h"
+
+1342191157 source:/home/fabiow/Projetos CB/Neural Networks/networks/maxnet.cpp
+	"maxnet.h"
+
+1342050650 /home/fabiow/Projetos CB/Neural Networks/networks/maxnet.h
+	"../neural_network.h"
+
+1342191156 source:/home/fabiow/Projetos CB/Neural Networks/networks/perceptron.cpp
+	"perceptron.h"
+
+1342050650 /home/fabiow/Projetos CB/Neural Networks/networks/perceptron.h
+	"../neural_network.h"
+
+1347893293 source:/home/fabiow/Projetos CB/Neural Networks/inputs4.cpp
+	"main_functions.h"
+
+1348023018 source:/home/fabiow/Projetos CB/Neural Networks/networks/lvq.cpp
+	"lvq.h"
+	<cmath>
+
+1347989306 /home/fabiow/Projetos CB/Neural Networks/networks/lvq.h
+	"../neural_network.h"
+
+1348005699 source:/home/fabiow/Projetos CB/Neural Networks/trainnings4.cpp
+	"main_functions.h"
+	"networks/lvq.h"
+
+1348022990 /home/fabiow/Projetos CB/Neural Networks/vector.h
+	"point.h"
+
+1335451386 /home/fabiow/Projetos CB/Neural Networks/point.h
+	<fstream>
+	<list>
+
+1348022990 source:/home/fabiow/Projetos CB/Neural Networks/vector.cpp
+	"vector.h"
+	<cmath>
+	<iostream>
+	"GL/glut.h"
+
+1348005380 source:/home/fabiow/Projetos CB/Neural Networks/point.cpp
+	"point.h"
+	<cmath>
+	<iostream>
+	"GL/glut.h"
+	"vector.h"
+

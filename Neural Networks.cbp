@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Neural Networks" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Neural Networks" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Neural Networks" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="aux_functions.cpp" />
+		<Unit filename="aux_functions.h" />
+		<Unit filename="graphSample.txt" />
+		<Unit filename="halfedge.cpp" />
+		<Unit filename="halfedge.h" />
+		<Unit filename="hebb.txt" />
+		<Unit filename="inputs.cpp" />
+		<Unit filename="inputs3.cpp" />
+		<Unit filename="inputs4.cpp" />
+		<Unit filename="layer.cpp" />
+		<Unit filename="layer.h" />
+		<Unit filename="letters_5by5/a.txt" />
+		<Unit filename="letters_5by5/b.txt" />
+		<Unit filename="letters_5by5/c.txt" />
+		<Unit filename="letters_5by5/g.txt" />
+		<Unit filename="letters_5by5/o.txt" />
+		<Unit filename="letters_5by5/s.txt" />
+		<Unit filename="letters_5by5/x.txt" />
+		<Unit filename="letters_7by9/1a.txt" />
+		<Unit filename="letters_7by9/1b.txt" />
+		<Unit filename="letters_7by9/1c.txt" />
+		<Unit filename="letters_7by9/1d.txt" />
+		<Unit filename="letters_7by9/1e.txt" />
+		<Unit filename="letters_7by9/1j.txt" />
+		<Unit filename="letters_7by9/1k.txt" />
+		<Unit filename="letters_7by9/2a.txt" />
+		<Unit filename="letters_7by9/2b.txt" />
+		<Unit filename="letters_7by9/2c.txt" />
+		<Unit filename="letters_7by9/2d.txt" />
+		<Unit filename="letters_7by9/2e.txt" />
+		<Unit filename="letters_7by9/2j.txt" />
+		<Unit filename="letters_7by9/2k.txt" />
+		<Unit filename="letters_7by9/3a.txt" />
+		<Unit filename="letters_7by9/3b.txt" />
+		<Unit filename="letters_7by9/3c.txt" />
+		<Unit filename="letters_7by9/3d.txt" />
+		<Unit filename="letters_7by9/3e.txt" />
+		<Unit filename="letters_7by9/3j.txt" />
+		<Unit filename="letters_7by9/3k.txt" />
+		<Unit filename="main.cpp" />
+		<Unit filename="main_functions.h" />
+		<Unit filename="networks/bam.cpp" />
+		<Unit filename="networks/bam.h" />
+		<Unit filename="networks/delta.cpp" />
+		<Unit filename="networks/delta.h" />
+		<Unit filename="networks/hamming.cpp" />
+		<Unit filename="networks/hamming.h" />
+		<Unit filename="networks/hebb.cpp" />
+		<Unit filename="networks/hebb.h" />
+		<Unit filename="networks/hopfield.cpp" />
+		<Unit filename="networks/hopfield.h" />
+		<Unit filename="networks/lvq.cpp" />
+		<Unit filename="networks/lvq.h" />
+		<Unit filename="networks/madaline.cpp" />
+		<Unit filename="networks/madaline.h" />
+		<Unit filename="networks/maxnet.cpp" />
+		<Unit filename="networks/maxnet.h" />
+		<Unit filename="networks/mexican_hat.cpp" />
+		<Unit filename="networks/mexican_hat.h" />
+		<Unit filename="networks/perceptron.cpp" />
+		<Unit filename="networks/perceptron.h" />
+		<Unit filename="neural_network.cpp" />
+		<Unit filename="neural_network.h" />
+		<Unit filename="neuron.cpp" />
+		<Unit filename="neuron.h" />
+		<Unit filename="nn_single_5_1.txt" />
+		<Unit filename="pattern.cpp" />
+		<Unit filename="pattern.h" />
+		<Unit filename="point.cpp" />
+		<Unit filename="point.h" />
+		<Unit filename="trainnings2.cpp" />
+		<Unit filename="trainnings3.cpp" />
+		<Unit filename="trainnings4.cpp" />
+		<Unit filename="vector.cpp" />
+		<Unit filename="vector.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
